@@ -22,7 +22,8 @@
 
 
 Подивися демовідео роботи галереї.
-https://github.com/gudzsv/goit-js-hw-09/assets/49489543/5559ce5e-ac84-4aaf-9d34-1a1ca4d98ff2
+<video src="https://github.com/gudzsv/goit-js-hw-09/assets/49489543/5559ce5e-ac84-4aaf-9d34-1a1ca4d98ff2"></video>
+
 
 Зверни увагу на такі деталі:
 
